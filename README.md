@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jawaher Hassan
+- 👋 Hi, I’m Jawaher Al-Hosni
 - 👀 I’m interested in Learning New Things.
 - 🌱 I’m currently learning DATA FUNDAMENTAL.
 - 💞️ I’m looking to collaborate on Udacity.
